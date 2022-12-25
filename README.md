@@ -12,6 +12,4 @@
   <img align="center" alt="Natan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-<div>
-  ![Snake animation](https://github.com/NatanielCosta/NatanielCosta/blob/output/github-contribution-grid-snake.svg)
-</div>
+
