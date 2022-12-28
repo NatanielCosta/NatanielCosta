@@ -10,3 +10,6 @@
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+<div>
+  [<img align=”left” alt=”LinkedIn” width=”80" src=”https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](www.linkedin.com/in/nataniel-costa-developer)  
+</div>
