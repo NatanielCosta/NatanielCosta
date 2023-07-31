@@ -1,4 +1,4 @@
-### Olá, eu sou Natan. Desenvolvedor Backend!
+### Hi, I'm Natan. Backend developer!
 
 <div align="center">
   <a href="https://github.com/natanncosta">
